@@ -99,6 +99,7 @@ The dashboard provides a **clear view of Amazon product performance**, enabling 
 * Integrate with **Power BI** for advanced visualization
 
 ## ✉️ Author & Contact
-
-Created by **Ankita Basu**
+* Author: Ankita Basu
+* LinkedIn: www.linkedin.com/in/ankita-basu-a7b0b628b
+* Email: ankita16basu@gmail.com
 
